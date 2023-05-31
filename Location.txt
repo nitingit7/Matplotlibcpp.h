@@ -1,1 +1,1 @@
-g++ main.cpp -I <path_of_python_until_include> -I <path_of_numpy_until_include> -L <path_of_python_until_libs> -l<name_of_python_with_version>
+g++ file_name.cpp -I <path_of_python_until_include> -I <path_of_numpy_until_include> -L <path_of_python_until_libs> -l<name_of_python_with_version>

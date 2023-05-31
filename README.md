@@ -9,7 +9,7 @@ Install minGW G++ for compiling c++ programs (https://sourceforge.net/projects/m
 
 Set virtual environment of mingw\bin in both system and variable path.
 
-Open command prompt and change directry to the directory where you have downloaded main.cpp and matplotlibcpp.h REMEMBER BOTH MAIN.CPP AND MATPLOTLIBCPP.H SHOULD BE IN SAME DIRECTORY.
+Open command prompt and change directry to the directory where you have downloaded main.cpp and matplotlibcpp.h (REMEMBER BOTH MAIN.CPP AND MATPLOTLIBCPP.H SHOULD BE IN SAME DIRECTORY).
 
 Compile the main.cpp using command prompt using g++ and include python, numpy and matplotlib libraries.(for more detail check the "Location" and Example_of_location files)
 

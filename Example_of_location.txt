@@ -1,0 +1,1 @@
+g++ main.cpp -I C:\Users\intel\AppData\Local\Programs\Python\Python311\include -I C:\Users\intel\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\include -L C:\Users\intel\AppData\Local\Programs\Python\Python311\libs -lpython311

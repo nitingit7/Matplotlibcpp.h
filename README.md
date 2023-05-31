@@ -8,4 +8,6 @@ Open command prompt and change directry to the directory where you have download
 Compile the main.cpp using command prompt using g++ and include python,numpy and matplotlib libraries.(for more detail check the "Location" and Example_of_location file)
 Then a file .exe will create on same directory where your command prompt set.
 Open it using command prompt by typing his named alomg with extension.
+Then a pdf will generated on same location.
 Finally your garph will be in front of your eyes.
+For more information https://matplotlib-cpp.readthedocs.io/en/latest/index.html

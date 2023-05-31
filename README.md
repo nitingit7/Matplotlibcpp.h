@@ -15,10 +15,10 @@ Compile the main.cpp using command prompt using g++ and include python, numpy an
 
 Then a file .exe will create on same directory where your command prompt set.
 
-Open it using command prompt by typing his named alomg with extension.
+Open it using command prompt by typing his named along with extension.
 
 Then a pdf will generated on same location if pdf is not generated then a image will show.
 
-Finally your garph will be in front of your eyes.
+Finally your graph will be in front of your eyes.
 
-For more information https://matplotlib-cpp.readthedocs.io/en/latest/index.html
+For more informations https://matplotlib-cpp.readthedocs.io/en/latest/index.html

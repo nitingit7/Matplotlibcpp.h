@@ -1,5 +1,5 @@
 # Matplotlibcpp.h
-This is the file to plot the graph using matplotlib in c++.
+Plotting graphs using matplotlib in c++ in windows machine.
 
 First install latest version of python.
 
